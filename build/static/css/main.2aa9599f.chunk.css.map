@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAEA,GACE,WAAY,CACZ,iBACF,CAEA,MACE,UAAW,CACX,eAAgB,CAChB,cACF","file":"main.2aa9599f.chunk.css","sourcesContent":["\n\nh1 {\n  color: green;\n  font-style: italic;\n}\n\n.note {\n  color: grey;\n  padding-top: 3px;\n  font-size: 15px;\n}"]}

@@ -25,6 +25,7 @@ let notes = [
 const app = express();
 app.use(express.json());
 app.use(cors());
+app.use(express.static('build'));
 
 app.get('/', (request, response) => {
     response.send('<h1>Hello world!</h1>');
