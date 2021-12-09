@@ -1,1 +1,1 @@
-"Nothing to see here, just some React and Node gymnastics" 
+"Nothing to see here, just some Node gymnastics" 
